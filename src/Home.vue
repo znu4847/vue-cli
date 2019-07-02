@@ -6,6 +6,7 @@
 <script>
 import ServerStatus from "./ServerStatus.vue";
 export default {
+  // locally using component
   components: { "app-server-status": ServerStatus }
 };
 </script>
