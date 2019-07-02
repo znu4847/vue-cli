@@ -1,5 +1,7 @@
 <template>
-  <app-servers></app-servers>
+  <div>
+    <app-servers></app-servers>
+  </div>
 </template>
 
 <script>
